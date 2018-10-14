@@ -2,6 +2,7 @@
 layout: post
 title: Lebensunwertes Leben
 categones: sick
+disqus: disabled
 ---
 
 
