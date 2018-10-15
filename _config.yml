@@ -22,6 +22,8 @@ paginate: 5
 # Separator
 excerpt_separator: <!--more-->
 
+favicon: images/favicon.ico
+
 # Other Plugins
 kramdown:
   footnote_backlink:   '&#x21a9;&#xfe0e;'
