@@ -19,6 +19,9 @@ gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
 
+# Separator
+excerpt_separator: <!--more-->
+
 # Other Plugins
 kramdown:
   footnote_backlink:   '&#x21a9;&#xfe0e;'
